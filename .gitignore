@@ -1,6 +1,6 @@
 #All
-*
+/*
 
 #not ipynb
-!.ipynb
-!.gitignore
+!*.ipynb
+!/.gitignore
