@@ -1,0 +1,6 @@
+#All
+*
+
+#not ipynb
+!.ipynb
+!.gitignore
