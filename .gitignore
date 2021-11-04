@@ -3,4 +3,5 @@
 
 #not ipynb
 !*.ipynb
+!*.csv
 !/.gitignore
